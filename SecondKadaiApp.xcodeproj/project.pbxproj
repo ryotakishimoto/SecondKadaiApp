@@ -12,6 +12,7 @@
 		398797DA1F5EC4C30074C466 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 398797D81F5EC4C30074C466 /* Main.storyboard */; };
 		398797DC1F5EC4C30074C466 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 398797DB1F5EC4C30074C466 /* Assets.xcassets */; };
 		398797DF1F5EC4C30074C466 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 398797DD1F5EC4C30074C466 /* LaunchScreen.storyboard */; };
+		398797E71F5ECCD70074C466 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398797E61F5ECCD70074C466 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		398797DB1F5EC4C30074C466 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		398797DE1F5EC4C30074C466 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		398797E01F5EC4C30074C466 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		398797E61F5ECCD70074C466 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				398797D41F5EC4C30074C466 /* AppDelegate.swift */,
 				398797D61F5EC4C30074C466 /* ViewController.swift */,
 				398797D81F5EC4C30074C466 /* Main.storyboard */,
+				398797E61F5ECCD70074C466 /* ResultViewController.swift */,
 				398797DB1F5EC4C30074C466 /* Assets.xcassets */,
 				398797DD1F5EC4C30074C466 /* LaunchScreen.storyboard */,
 				398797E01F5EC4C30074C466 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				398797D71F5EC4C30074C466 /* ViewController.swift in Sources */,
 				398797D51F5EC4C30074C466 /* AppDelegate.swift in Sources */,
+				398797E71F5ECCD70074C466 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
